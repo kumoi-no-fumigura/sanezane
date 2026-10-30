@@ -4,7 +4,12 @@
  "repo": "kumoi-no-fumigura/sanezane",
  "yomi": "ふじわらのさねざねあそんしゅう",
  "category": "私家集",
- "description": null,
+ "description": {
+  "kind": "私家集",
+  "era": "鎌倉中期",
+  "author": "藤原信実",
+  "desc": "似絵の名手としても知られる藤原信実の家集。新六帖題の歌や、九条家・西園寺家などで詠んだ百首・五十首の歌を収める。冷泉為村が享保21年に記した奥書がある。"
+ },
  "editions": [
   {
    "pid": "936505",
