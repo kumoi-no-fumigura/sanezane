@@ -26,7 +26,10 @@
  "license": {
   "text": "CC0 1.0"
  },
- "translation": null,
+ "translation": {
+  "count": 6,
+  "note": "AI による現代語訳"
+ },
  "blocks": [
   {
    "id": "zoku16a-sanezane-0001",
@@ -2893,6 +2896,7 @@
   "poems": 218,
   "editions": 1,
   "updated": "2026-11-05",
-  "updated_at": "2026-11-05T07:56:00+09:00"
+  "updated_at": "2026-11-05T07:56:00+09:00",
+  "yaku": 6
  }
 }
